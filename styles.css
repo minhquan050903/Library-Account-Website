@@ -1,0 +1,21 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+*{ 
+   
+    text-align: center;
+    font-family: "Kanit";
+}
+
+form{
+    text-align: center;
+    display: grid;
+    
+}
+button{
+    margin : 20px;
+}
